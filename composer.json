@@ -7,5 +7,7 @@
             "email": "boombosha@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "illuminate/collections": "^11.34"
+    }
 }
