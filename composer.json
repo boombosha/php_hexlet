@@ -1,0 +1,11 @@
+{
+    "name": "hex/example",
+    "description": "education example",
+    "authors": [
+        {
+            "name": "e.pischurova",
+            "email": "boombosha@gmail.com"
+        }
+    ],
+    "require": {}
+}
